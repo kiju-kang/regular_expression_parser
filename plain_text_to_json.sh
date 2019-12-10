@@ -1,10 +1,10 @@
 #!/bin/sh
 
-#title           :regular_expression_parser.sh
+#title           :plain_text_to_json.sh.sh
 #author		 :kiju kang (kiju_kang@naver.com)
 #date            :20191206
 #version         :0.1    
-#usage		 :bash regular_expression_parser.sh
+#usage		 :bash plain_text_to_json.sh.sh
 #bash_version    :4.4.23(1)-release
 
 echo -e "[\n\t{"
